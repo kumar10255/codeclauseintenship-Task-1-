@@ -1,0 +1,56 @@
+
+#logreg-forms
+{
+    width:270px;
+    margin:10vh auto;
+    background-color:#e9dede; 
+}
+#logreg-forms form
+ {
+    width: 100%;
+    max-width: 410px;
+    padding: 15px;
+    margin: auto;
+}
+ .form-control
+  {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+    width: auto;   
+}
+#logreg-forms .social-btn
+{
+    font-weight: 100;
+    color:white;
+    width:190px;
+    font-size: 0.9rem;
+}
+ .facebook-btn
+ {
+      background-color:#3C589C; 
+}
+ .google-btn
+ {
+     background-color: #DF4B3B; 
+ }
+.form-signup input 
+{ 
+    margin-bottom: 2px;
+}
+.form-signup .social-login{
+    width:210px !important;
+    margin: 0 auto;
+}
+.github1
+{
+        color: white;
+        background-color: aqua;
+        text-align: center;
+        width: auto;
+        display: flex;
+        align-items: center;
+        margin-left: 70px;
+}
